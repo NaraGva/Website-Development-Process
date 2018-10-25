@@ -1,0 +1,2 @@
+# Website-Development-Process
+Collection and Analysis of Information At the first stage of creating a website, we will collect as much information as possible about what is needed, and what is not needed for your site. To do this, you can analyze the sites that you consider as an example. Please be ready to answer many questions about what you want, it is necessary to develop a technical task. The technical task is used as a sort of reference or a detailed description of the project.
